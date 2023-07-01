@@ -30,5 +30,3 @@ In late 2022, I acquired an iPhone 4S, iPod Touch 4G, and iPhone 6 Plus. This ti
 So, how did I transition from jailbreaking to programming? It started with my Cydia repo on GitHub and a website, which involved using HTML, CSS, and JavaScript. These languages are the building blocks of programming. From there, I began creating real websites—clean, modern, and professional, like the PermissionMaster website and my upcoming blog website.
 
 That's how my journey unfolded—how I got into programming and jailbreaking. Thanks for reading, and have a great day! 😄
-
-![Snake animation](https://github.com/appletech75/github-readme/blob/output/github-contribution-snake.svg)
