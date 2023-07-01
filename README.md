@@ -31,3 +31,4 @@ So, how did I transition from jailbreaking to programming? It started with my Cy
 
 That's how my journey unfolded—how I got into programming and jailbreaking. Thanks for reading, and have a great day! 😄
 
+![Snake animation](https://github.com/appletech75/github-readme/blob/output/github-contribution-snake.svg)
