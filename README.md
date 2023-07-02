@@ -15,7 +15,7 @@ Total profile views
 - 💬 Ask me anything.
 - 📫 How to reach me: [Email me](mailto:kilianbalaguer@icloud.com).
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: I'm only 12 years old!
+- ⚡ Fun fact: I'm only 12 years old! Plus, I play the guitar very well.
 
 ## How I Got Into Programming and Jailbreaking
 
