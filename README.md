@@ -77,3 +77,12 @@ ___
 </p>
 
 ---
+
+<h3 align="center">Social</h3>
+
+<p align="center">
+  <a href="https://www.reddit.com/user/appletech75_dev"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit"></a>
+  <a href="https://appletech75.github.io/appletech75-blog/"><img src="https://img.shields.io/badge/Blog-Website-blue?style=for-the-badge" alt="Blog Website"></a>
+</p>
+
+---
