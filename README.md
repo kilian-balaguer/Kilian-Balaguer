@@ -41,3 +41,19 @@ That's how my journey unfolded—how I got into programming and jailbreaking. Th
 </div>
 
 ---
+
+
+<h3 align="center">OS I use</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
+</p>
+
+<p align="center">
+  My favorite OS is macOS! 🍎
+</p>
+
+
+___
