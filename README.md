@@ -62,5 +62,8 @@ In addition, I also have an iMac from either 2012 or 2014, running macOS 13 (spe
   My favorite OS is macOS! 🍎
 </p>
 
+<p align="center">
+  Although I used to use Linux and Windows extensively, my current focus has shifted primarily towards macOS.
+</p>
 
 ___
