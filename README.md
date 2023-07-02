@@ -1,7 +1,8 @@
 ### Hi there! 👋
 
 ---
-Total profile views
+
+### Total views
 
 <img src="https://profile-counter.glitch.me/{appletech75}/count.svg" alt="appletech75 :: Visitor's Count" />
 
