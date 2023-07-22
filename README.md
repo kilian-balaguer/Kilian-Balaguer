@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on PermissionMaster and my Blog website.
 - 🌱 I'm currently learning C++ and Swift.
 - 👯 I'm looking to collaborate on macOS projects like Opencore Legacy Patcher.
-- 🤔 I'm looking for help with C++ and Swift.
+- 🤔 I'm looking for help with making an Ps vita app (homebrew App).
 - 💬 Ask me anything.
 - 📫 How to reach me: [Email me](mailto:kilianbalaguer@icloud.com).
 - 😄 Pronouns: He/him.
