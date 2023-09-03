@@ -17,6 +17,7 @@
 - 📫 How to reach me: [Email me](mailto:kilianbalaguer@icloud.com).
 - 😄 Pronouns: He/him.
 - ⚡️ Fun fact: I'm only 13 years old! Plus, I play the guitar very well.
+- 🤗 If you need help with anything for coding or anything about programing [Email me](mailto:kilianbalaguer@icloud.com) i can make website templates and ios/macos/watchos/tvos/vision os template.
 
 ## How I Got Into Programming and Jailbreaking
 
