@@ -35,7 +35,7 @@ That's how my journey unfolded—how I got into programming and jailbreaking. Th
 
 ## Programming Environment
 
-I am using a MacBook Air (mid-2012) running macOS 13.5 beta. You might be wondering how I managed to get macOS running on an unsupported MacBook. Well, I used the OpenCore Legacy Patcher, which allowed me to install macOS on it successfully.
+I am using a MacBook Air (mid-2012) running macOS 12.6.9. You might be wondering how I managed to get macOS running on an unsupported MacBook. Well, I used the OpenCore Legacy Patcher, which allowed me to install macOS on it successfully.
 
 In addition, I also have an iMac from either 2012 or 2014, running macOS 13 (specific Ventura version unknown). The iMac is also set up with the OpenCore Legacy Patcher. However, currently, I don't have access to my iMac, so I bought a used MacBook from the marketplace, which is in great condition.
 
