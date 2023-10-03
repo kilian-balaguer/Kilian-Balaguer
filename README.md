@@ -49,6 +49,8 @@ In addition, I also have an iMac from either 2012 or 2014, running macOS 13 (spe
   </p>
 </div>
 
+![appletech75 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=appletech75)
+
 ---
 
 
