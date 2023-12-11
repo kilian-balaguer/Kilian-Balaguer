@@ -21,7 +21,7 @@
 - ⚡️ Fun fact: I'm only 13 years old! Plus, I play guitar and more.
 - 🤗 If you need help with anything for coding or anything about programing [Email me](mailto:kilianbalaguer@icloud.com).
 
-___
+---
 
 <h3 align="center">How I Got Into Programming and Jailbreaking</h3>
 
@@ -37,7 +37,7 @@ So, how did i start programming? It started with my Jailbreak repo on GitHub, wh
 
 That's how my journey unfolded—how I got into programming and jailbreaking. Thanks for reading, and have a great day! 😄
 
-___
+---
 
 <h3 align="center">Programming Environment</h3>
 
@@ -76,7 +76,7 @@ In addition, I also have an iMac from either 2012 or 2014, running macOS 13 (spe
   Although I used to use Linux and Windows extensively, my current focus has shifted primarily towards MacOS (But I still use Windows And Linux).
 </p>
 
-___
+---
 
 <h3 align="center">Skills</h3>
 
@@ -86,7 +86,7 @@ ___
   </a>
 </p>
 
-___
+---
 
 <h3 align="center">Tools I use</h3>
 
