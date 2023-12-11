@@ -90,11 +90,18 @@ ___
 
 <h3 align="center">Tools I use</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Desktop">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&amp;logo=xcode&amp;logoColor=white" alt="Xcode">
-</p>
+<div align="center">
+
+<img src="https://github.com/appletech75/appletech75/blob/main/vs-code.png" height="40" alt="vscode_logo"/>
+<img width="12" />
+
+<img src="https://github.com/appletech75/appletech75/blob/main/xcode.png" height="40" alt="xcode_logo"/>
+<img width="12" />
+
+<img src="https://github.com/appletech75/appletech75/blob/main/android-studio.png" height="40" alt="android-studio_logo"/>
+<img width="12" />
+
+</div>
 
 ---
 
