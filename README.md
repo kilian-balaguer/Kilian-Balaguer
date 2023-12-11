@@ -12,12 +12,12 @@
 - 🔭 I'm currently working on too much projects
 - 🌱 I'm currently learning C++ and SwiftUI.
 - 👯 I'm looking to collaborate on macOS projects like Opencore Legacy Patcher.
-- 🤔 I'm looking for help with my project called MovBox see 
+- 🤔 I'm looking for help with my project called MovBox [See This](https://github.com/MovBox/MovBox-App)
 - 💬 Ask me anything.
 - 📫 How to reach me: [Email me](mailto:kilianbalaguer@icloud.com).
 - 😄 Pronouns: He/him.
 - ⚡️ Fun fact: I'm only 13 years old! Plus, I play guitar and more.
-- 🤗 If you need help with anything for coding or anything about programing [Email me](mailto:kilianbalaguer@icloud.com) i can make website templates and ios/macos/watchos/tvos/vision os template.
+- 🤗 If you need help with anything for coding or anything about programing [Email me](mailto:kilianbalaguer@icloud.com).
 
 ## How I Got Into Programming and Jailbreaking
 
