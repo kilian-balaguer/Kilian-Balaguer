@@ -1,14 +1,16 @@
-### Hi there! 👋
+<h3 align="center">Hi there! 👋</h3>
 
 ---
 
-### Total views
-
-<img src="https://profile-counter.glitch.me/{appletech75}/count.svg" alt="appletech75 :: Visitor's Count" />
+<h3 align="center">Total views</h3>
+<p align="center">
+<img src="https://profile-counter.glitch.me/{appletech75}/count.svg" alt="appletech75 :: Visitor's Count"/>
+</p>
 
 ---
 
-## About Me
+<h3 align="center">About Me</h3>
+
 - 🔭 I'm currently working on too much projects
 - 🌱 I'm currently learning C++ and SwiftUI.
 - 👯 I'm looking to collaborate on macOS projects like Opencore Legacy Patcher.
@@ -19,7 +21,9 @@
 - ⚡️ Fun fact: I'm only 13 years old! Plus, I play guitar and more.
 - 🤗 If you need help with anything for coding or anything about programing [Email me](mailto:kilianbalaguer@icloud.com).
 
-## How I Got Into Programming and Jailbreaking
+___
+
+<h3 align="center">How I Got Into Programming and Jailbreaking</h3>
 
 You might be wondering how I got into programming and jailbreaking. Well, it's quite a simple story! 😊
 
@@ -33,7 +37,9 @@ So, how did i start programming? It started with my Jailbreak repo on GitHub, wh
 
 That's how my journey unfolded—how I got into programming and jailbreaking. Thanks for reading, and have a great day! 😄
 
-## Programming Environment
+___
+
+<h3 align="center">Programming Environment</h3>
 
 I am using a MacBook Air (mid-2012) running macOS 14.0. You might be wondering how I managed to get macOS (14.0) running on an unsupported MacBook. Well, I used the OpenCore Legacy Patcher, which allowed me to install macOS on it successfully.
 
@@ -68,6 +74,16 @@ In addition, I also have an iMac from either 2012 or 2014, running macOS 13 (spe
 
 <p align="center">
   Although I used to use Linux and Windows extensively, my current focus has shifted primarily towards MacOS (But I still use Windows And Linux).
+</p>
+
+___
+
+<h3 align="center">Skills</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,mysql,php,md,c,css,html,js,swift,vscode,visualstudio,figma,blender,unity,unreal,firebase,discord" />
+  </a>
 </p>
 
 ___
